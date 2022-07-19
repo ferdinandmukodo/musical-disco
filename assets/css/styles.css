@@ -104,8 +104,6 @@ form > button[type = "submit"], form > button[type = "reset"]{
     border: 1px solid white;
 } 
 
-
-/* OUTPUT DISPLAY */
 .outputDisplay{
     overflow: auto;
     width: 50%;
@@ -154,7 +152,7 @@ form > button[type = "submit"], form > button[type = "reset"]{
 } 
 
 .container {
-    background-color: green;
+    background-color: rgb(214, 126, 223);
     height: 20vh;
     display: flex;
     justify-content: center;
