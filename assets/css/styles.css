@@ -152,7 +152,7 @@ form > button[type = "submit"], form > button[type = "reset"]{
 } 
 
 .container {
-    background-color: rgb(214, 126, 223);
+    /* background-color: rgb(214, 126, 223); */
     height: 20vh;
     display: flex;
     justify-content: center;
