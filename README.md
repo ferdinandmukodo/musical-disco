@@ -1,5 +1,5 @@
 <b>MAMA'S DAIRY FARM BUSINESS</b>
-Portfolio By <b>FERDINANND MUKODO</b>
+Portfolio By <b>FERDINAND MUKODO</b>
 <hr>
 Project Description: This is demonstrative project to show how a farmer or anyone managing farm dairy track and monitor their milk produce. The farmer can get values of projected sells of milk in Kenyan shillings as per the milk price.
 
