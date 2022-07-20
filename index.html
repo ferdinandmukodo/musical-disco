@@ -21,7 +21,7 @@
         <div class="special">
             <div class="formData">
                 
-                <form action="submit" onsubmit="produceReport();">
+                <form action="submit" onsubmit="calculteIncome();">
                     <h3>Enter And Submit Values Of Milk In Litres</h3> 
                     <div id="sheds">
                         <label for="shed_A">Shed_A: Amount Of Milk (Litres)</label>
@@ -43,7 +43,7 @@
                         <input id="shed_D" type="number" min="0" required>
                     </div>
             
-                    <button type="submit">Submit</button>
+                    <button type="submit" onclick="calculteIncome">Submit</button>
                     <button id="reset" type="reset" onclick="resetPage();">Reset</button>
                     
                 </form>
